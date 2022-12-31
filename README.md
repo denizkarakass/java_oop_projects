@@ -1,2 +1,2 @@
-# my_java_mini_projects
+# Mini Java Projelerim
 Geliştirmiş olduğum mini java projeleri.
